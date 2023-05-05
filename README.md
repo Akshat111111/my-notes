@@ -15,4 +15,4 @@ In terms of design, this website is simple and minimalist. It has been designed 
 on the screen size of the device being used. This makes it easy to use on both desktop and mobile devices.
 
 Another notable feature of Google Notes is its ability to sync notes across multiple devices. However, since this clone does not have a 
-backend or database, this feature is not included. Users can only access their notes on the device they created them on.
+backend or database, this feature is not included. Users can only access their notes on the device you  created them on.
